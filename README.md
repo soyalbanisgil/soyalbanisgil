@@ -1,27 +1,15 @@
-# Hi there I'm Karen Albanis Gil👋
-I am a React.js & React Native Developer
+# Hi there I'm Karen Gil👋
+I am a React.js Developer
 
 ## I'm currently working on...
 > Rebuilding my portfolio
 
 > Creating a personal library of reusable components in React.js
 
+## I'm currently learning...
+> React Native
+
 ## My Hobbies
-📚 Reading a lot of fiction books
-🎶 Listen to music
-♟️ Amateur chess player
-
-<!--
-**soyalbanisgil/soyalbanisgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Reading a lot of fiction books </br>
+🎶 Listen to music </br>
+♟️ Amateur chess player </br>
