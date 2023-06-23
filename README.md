@@ -1,13 +1,11 @@
 # Hi there I'm Karen Gil👋
-I am a React.js Developer
+I'm a self taught front-end developer.
 
 ## I'm currently working on...
-> Rebuilding my portfolio
-
-> Creating a personal library of reusable components in React.js
+> Rebuilding my portfolio and create some personal projects
 
 ## I'm currently learning...
-> React Native
+> The requirements to make the transition to full stack developer
 
 ## My Hobbies
 📚 Reading a lot of fiction books </br>
